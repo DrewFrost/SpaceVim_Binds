@@ -17,6 +17,6 @@ Allign intends in line(tabs) ---  `= + =`
 
 Comment text (line) --- `Space + c + L`
 
-Uncomment test (line) --- `Space + c + u`
+Uncomment text (line) --- `Space + c + u`
 
 Toggle file tree --- `Space + f + t`
